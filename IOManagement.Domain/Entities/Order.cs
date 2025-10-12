@@ -1,4 +1,8 @@
-﻿namespace IOManagement.Domain.Entities
+﻿
+
+using IOManagement.Domain.Enums;
+
+namespace IOManagement.Domain.Entities
 {
     public class Order : BaseEntity
     {
@@ -6,7 +10,7 @@
         public Guid ProductId { get; set; }
         public int Quantity { get; set; }
         public decimal TotalPrice { get; set; }
-        public string Status { get; set; } = "Pending"; // Pending, Processing, Completed, Canceled
+        public OrderStatus Status { get; set; } = OrderStatus.Pending;
         public DateTime CreatedAt { get; set; }
     }
 }

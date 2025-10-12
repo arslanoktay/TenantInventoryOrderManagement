@@ -1,5 +1,8 @@
 <Solution>
+  <Folder Name="/Core/">
+    <Project Path="IOManagement.Application/IOManagement.Application.csproj" Id="81343ca7-7b53-4dd6-b00a-8d99fde9a7f7" />
+    <Project Path="IOManagement.Domain/IOManagement.Domain.csproj" />
+  </Folder>
   <Project Path="IOManagement.API/IOManagement.API.csproj" />
-  <Project Path="IOManagement.Domain/IOManagement.Domain.csproj" />
   <Project Path="IOManagement.Infrastructure/IOManagement.Infrastructure.csproj" />
 </Solution>

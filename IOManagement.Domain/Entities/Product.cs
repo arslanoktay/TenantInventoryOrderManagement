@@ -2,13 +2,17 @@
 {
     public class Product : BaseEntity
     {
-        public Guid TenantId { get; set; }
-        public string Name { get; set; }
-        public string Category { get; set; }
-        public int StockQuantity { get; set; }
-        public decimal UnitPrice { get; set; }
-        public bool IsDeleted { get; set; }
-        public DateTime CreatedAt { get; set; }
-        public DateTime UpdatedAt { get; set; }
+        public string Name { get; private set; }
+        public string Description { get; private set; }
+        public decimal Price { get; private set; }
+        public int StockQuantity { get; private set; }
+        public string? ImageUrl { get; private set; }
+
+        public void DecreaseStock(int quantity)
+        {
+            if (StockQuantity < quantity)
+                throw new InvalidOperationException("Insufficient stock.");
+            StockQuantity -= quantity;
+        }
     }
 }
