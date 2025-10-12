@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="TenantInventoryOrderManagement/TenantInventoryOrderManagement.csproj" />
+  <Project Path="IOManagement.API/IOManagement.API.csproj" />
+  <Project Path="IOManagement.Domain/IOManagement.Domain.csproj" />
+  <Project Path="IOManagement.Infrastructure/IOManagement.Infrastructure.csproj" />
 </Solution>

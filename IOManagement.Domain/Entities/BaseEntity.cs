@@ -1,0 +1,7 @@
+﻿namespace IOManagement.Domain.Entities
+{
+    public class BaseEntity
+    {
+        public Guid Id { get; set; }
+    }
+}
