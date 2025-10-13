@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TenantInventoryOrderManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7da8fcce460418bbfa6b3d96f6c5e4a565cbc40")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cff323bee560a457ed2704f94a74c964175bc7a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TenantInventoryOrderManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TenantInventoryOrderManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

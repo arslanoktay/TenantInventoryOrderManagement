@@ -1,0 +1,12 @@
+C:\Users\oarslan\Desktop\Dev\dotnet\TenantInventoryOrderManagement\IOManagement.Application\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\oarslan\Desktop\Dev\dotnet\TenantInventoryOrderManagement\IOManagement.Infrastructure\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\oarslan\Desktop\Dev\dotnet\TenantInventoryOrderManagement\IOManagement.Domain\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\oarslan\Desktop\Dev\dotnet\TenantInventoryOrderManagement\IOManagement.Application\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\oarslan\Desktop\Dev\dotnet\TenantInventoryOrderManagement\IOManagement.Infrastructure\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\oarslan\Desktop\Dev\dotnet\TenantInventoryOrderManagement\IOManagement.Domain\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\oarslan\Desktop\Dev\dotnet\TenantInventoryOrderManagement\IOManagement.Application\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\oarslan\Desktop\Dev\dotnet\TenantInventoryOrderManagement\IOManagement.Infrastructure\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\oarslan\Desktop\Dev\dotnet\TenantInventoryOrderManagement\IOManagement.Domain\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\oarslan\Desktop\Dev\dotnet\TenantInventoryOrderManagement\IOManagement.Application\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\oarslan\Desktop\Dev\dotnet\TenantInventoryOrderManagement\IOManagement.Infrastructure\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\oarslan\Desktop\Dev\dotnet\TenantInventoryOrderManagement\IOManagement.Domain\obj\Debug\net8.0\staticwebassets.build.json

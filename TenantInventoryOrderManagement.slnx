@@ -3,6 +3,9 @@
     <Project Path="IOManagement.Application/IOManagement.Application.csproj" Id="81343ca7-7b53-4dd6-b00a-8d99fde9a7f7" />
     <Project Path="IOManagement.Domain/IOManagement.Domain.csproj" />
   </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml" />
+  </Folder>
   <Project Path="IOManagement.API/IOManagement.API.csproj" />
   <Project Path="IOManagement.Infrastructure/IOManagement.Infrastructure.csproj" />
 </Solution>

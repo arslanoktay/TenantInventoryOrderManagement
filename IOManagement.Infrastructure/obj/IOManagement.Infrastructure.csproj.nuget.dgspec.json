@@ -1,23 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oktay\\Desktop\\Projeler\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj": {}
+    "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oktay\\Desktop\\Projeler\\TenantInventoryOrderManagement\\IOManagement.Application\\IOManagement.Application.csproj": {
+    "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Application\\IOManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oktay\\Desktop\\Projeler\\TenantInventoryOrderManagement\\IOManagement.Application\\IOManagement.Application.csproj",
+        "projectUniqueName": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Application\\IOManagement.Application.csproj",
         "projectName": "IOManagement.Application",
-        "projectPath": "C:\\Users\\oktay\\Desktop\\Projeler\\TenantInventoryOrderManagement\\IOManagement.Application\\IOManagement.Application.csproj",
-        "packagesPath": "C:\\Users\\oktay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oktay\\Desktop\\Projeler\\TenantInventoryOrderManagement\\IOManagement.Application\\obj\\",
+        "projectPath": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Application\\IOManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\oarslan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\oktay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oarslan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +30,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\DevExpress 24.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\oktay\\Desktop\\Projeler\\TenantInventoryOrderManagement\\IOManagement.Domain\\IOManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\oktay\\Desktop\\Projeler\\TenantInventoryOrderManagement\\IOManagement.Domain\\IOManagement.Domain.csproj"
+              "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Domain\\IOManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Domain\\IOManagement.Domain.csproj"
               }
             }
           }
@@ -48,7 +54,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -94,24 +100,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\oktay\\Desktop\\Projeler\\TenantInventoryOrderManagement\\IOManagement.Domain\\IOManagement.Domain.csproj": {
+    "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Domain\\IOManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oktay\\Desktop\\Projeler\\TenantInventoryOrderManagement\\IOManagement.Domain\\IOManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Domain\\IOManagement.Domain.csproj",
         "projectName": "IOManagement.Domain",
-        "projectPath": "C:\\Users\\oktay\\Desktop\\Projeler\\TenantInventoryOrderManagement\\IOManagement.Domain\\IOManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\oktay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oktay\\Desktop\\Projeler\\TenantInventoryOrderManagement\\IOManagement.Domain\\obj\\",
+        "projectPath": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Domain\\IOManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\oarslan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\oktay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oarslan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -120,6 +130,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\DevExpress 24.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -138,7 +150,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -162,24 +174,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\oktay\\Desktop\\Projeler\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj": {
+    "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oktay\\Desktop\\Projeler\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj",
         "projectName": "IOManagement.Infrastructure",
-        "projectPath": "C:\\Users\\oktay\\Desktop\\Projeler\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\oktay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oktay\\Desktop\\Projeler\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\oarslan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\oktay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oarslan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -188,14 +204,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\DevExpress 24.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\oktay\\Desktop\\Projeler\\TenantInventoryOrderManagement\\IOManagement.Application\\IOManagement.Application.csproj": {
-                "projectPath": "C:\\Users\\oktay\\Desktop\\Projeler\\TenantInventoryOrderManagement\\IOManagement.Application\\IOManagement.Application.csproj"
+              "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Application\\IOManagement.Application.csproj": {
+                "projectPath": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Application\\IOManagement.Application.csproj"
               }
             }
           }
@@ -210,11 +228,23 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -234,7 +264,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
