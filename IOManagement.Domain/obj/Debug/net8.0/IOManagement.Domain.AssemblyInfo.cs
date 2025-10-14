@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IOManagement.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cff323bee560a457ed2704f94a74c964175bc7a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aca417912806cdf27ddc2d750e01d3b72a7be5ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("IOManagement.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IOManagement.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
