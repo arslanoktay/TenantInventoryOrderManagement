@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E5A6EE0-C523-350D-DCD8-E389812052DB}|IOManagement.API\\IOManagement.API.csproj|c:\\users\\oarslan\\desktop\\dev\\dotnet\\tenantinventoryordermanagement\\iomanagement.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E5A6EE0-C523-350D-DCD8-E389812052DB}|IOManagement.API\\IOManagement.API.csproj|solutionrelative:iomanagement.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E5A6EE0-C523-350D-DCD8-E389812052DB}|IOManagement.API\\IOManagement.API.csproj|c:\\users\\oarslan\\desktop\\dev\\dotnet\\tenantinventoryordermanagement\\iomanagement.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5A6EE0-C523-350D-DCD8-E389812052DB}|IOManagement.API\\IOManagement.API.csproj|solutionrelative:iomanagement.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E5A6EE0-C523-350D-DCD8-E389812052DB}|IOManagement.API\\IOManagement.API.csproj|c:\\users\\oarslan\\desktop\\dev\\dotnet\\tenantinventoryordermanagement\\iomanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E5A6EE0-C523-350D-DCD8-E389812052DB}|IOManagement.API\\IOManagement.API.csproj|solutionrelative:iomanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E5A6EE0-C523-350D-DCD8-E389812052DB}|IOManagement.API\\IOManagement.API.csproj|c:\\users\\oarslan\\desktop\\dev\\dotnet\\tenantinventoryordermanagement\\iomanagement.api\\controllers\\apicontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5A6EE0-C523-350D-DCD8-E389812052DB}|IOManagement.API\\IOManagement.API.csproj|solutionrelative:iomanagement.api\\controllers\\apicontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E5A6EE0-C523-350D-DCD8-E389812052DB}|IOManagement.API\\IOManagement.API.csproj|c:\\users\\oarslan\\desktop\\dev\\dotnet\\tenantinventoryordermanagement\\iomanagement.api\\services\\tenantprovider .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E5A6EE0-C523-350D-DCD8-E389812052DB}|IOManagement.API\\IOManagement.API.csproj|solutionrelative:iomanagement.api\\services\\tenantprovider .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81343CA7-7B53-4DD6-B00A-8D99FDE9A7F7}|IOManagement.Application\\IOManagement.Application.csproj|c:\\users\\oarslan\\desktop\\dev\\dotnet\\tenantinventoryordermanagement\\iomanagement.application\\features\\products\\queries\\getproductbyid\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81343CA7-7B53-4DD6-B00A-8D99FDE9A7F7}|IOManagement.Application\\IOManagement.Application.csproj|solutionrelative:iomanagement.application\\features\\products\\queries\\getproductbyid\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11FF7309-7762-531A-FAA1-A47AC92E0BB4}|IOManagement.Domain\\IOManagement.Domain.csproj|c:\\users\\oarslan\\desktop\\dev\\dotnet\\tenantinventoryordermanagement\\iomanagement.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11FF7309-7762-531A-FAA1-A47AC92E0BB4}|IOManagement.Domain\\IOManagement.Domain.csproj|solutionrelative:iomanagement.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81343CA7-7B53-4DD6-B00A-8D99FDE9A7F7}|IOManagement.Application\\IOManagement.Application.csproj|c:\\users\\oarslan\\desktop\\dev\\dotnet\\tenantinventoryordermanagement\\iomanagement.application\\features\\products\\queries\\getproductbyid\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81343CA7-7B53-4DD6-B00A-8D99FDE9A7F7}|IOManagement.Application\\IOManagement.Application.csproj|solutionrelative:iomanagement.application\\features\\products\\queries\\getproductbyid\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E5A6EE0-C523-350D-DCD8-E389812052DB}|IOManagement.API\\IOManagement.API.csproj|c:\\users\\oarslan\\desktop\\dev\\dotnet\\tenantinventoryordermanagement\\iomanagement.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E5A6EE0-C523-350D-DCD8-E389812052DB}|IOManagement.API\\IOManagement.API.csproj|solutionrelative:iomanagement.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81343CA7-7B53-4DD6-B00A-8D99FDE9A7F7}|IOManagement.Application\\IOManagement.Application.csproj|c:\\users\\oarslan\\desktop\\dev\\dotnet\\tenantinventoryordermanagement\\iomanagement.application\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81343CA7-7B53-4DD6-B00A-8D99FDE9A7F7}|IOManagement.Application\\IOManagement.Application.csproj|solutionrelative:iomanagement.application\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEFB0B32-8ECA-F722-3299-C40BE1ABB444}|IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj|c:\\users\\oarslan\\desktop\\dev\\dotnet\\tenantinventoryordermanagement\\iomanagement.infrastructure\\iomanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DEFB0B32-8ECA-F722-3299-C40BE1ABB444}|IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj|solutionrelative:iomanagement.infrastructure\\iomanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DEFB0B32-8ECA-F722-3299-C40BE1ABB444}|IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj|c:\\users\\oarslan\\desktop\\dev\\dotnet\\tenantinventoryordermanagement\\iomanagement.infrastructure\\persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFB0B32-8ECA-F722-3299-C40BE1ABB444}|IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj|solutionrelative:iomanagement.infrastructure\\persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FF7309-7762-531A-FAA1-A47AC92E0BB4}|IOManagement.Domain\\IOManagement.Domain.csproj|c:\\users\\oarslan\\desktop\\dev\\dotnet\\tenantinventoryordermanagement\\iomanagement.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FF7309-7762-531A-FAA1-A47AC92E0BB4}|IOManagement.Domain\\IOManagement.Domain.csproj|solutionrelative:iomanagement.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +43,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExceptionHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.API\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "IOManagement.API\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ToolTip": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.API\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeToolTip": "IOManagement.API\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABSAAAAAAAAAA==",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "IOManagement.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "IOManagement.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T09:29:47.308Z",
+              "WhenOpened": "2025-10-15T14:43:43.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.API\\Program.cs",
-              "RelativeDocumentMoniker": "IOManagement.API\\Program.cs",
-              "ToolTip": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.API\\Program.cs",
-              "RelativeToolTip": "IOManagement.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Title": "ApiControllerBase.cs",
+              "DocumentMoniker": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.API\\Controllers\\ApiControllerBase.cs",
+              "RelativeDocumentMoniker": "IOManagement.API\\Controllers\\ApiControllerBase.cs",
+              "ToolTip": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.API\\Controllers\\ApiControllerBase.cs",
+              "RelativeToolTip": "IOManagement.API\\Controllers\\ApiControllerBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T09:28:39.878Z",
+              "WhenOpened": "2025-10-15T14:42:00.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TenantProvider .cs",
-              "DocumentMoniker": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.API\\Services\\TenantProvider .cs",
-              "RelativeDocumentMoniker": "IOManagement.API\\Services\\TenantProvider .cs",
-              "ToolTip": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.API\\Services\\TenantProvider .cs",
-              "RelativeToolTip": "IOManagement.API\\Services\\TenantProvider .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "GetProductByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Application\\Features\\Products\\Queries\\GetProductById\\GetProductByIdQuery.cs",
+              "RelativeDocumentMoniker": "IOManagement.Application\\Features\\Products\\Queries\\GetProductById\\GetProductByIdQuery.cs",
+              "ToolTip": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Application\\Features\\Products\\Queries\\GetProductById\\GetProductByIdQuery.cs",
+              "RelativeToolTip": "IOManagement.Application\\Features\\Products\\Queries\\GetProductById\\GetProductByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T09:26:22.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderStatus.cs",
-              "DocumentMoniker": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Domain\\Enums\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "IOManagement.Domain\\Enums\\OrderStatus.cs",
-              "ToolTip": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Domain\\Enums\\OrderStatus.cs",
-              "RelativeToolTip": "IOManagement.Domain\\Enums\\OrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T09:24:47.642Z",
+              "WhenOpened": "2025-10-15T14:40:04.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.API\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "IOManagement.API\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.API\\WeatherForecast.cs",
-              "RelativeToolTip": "IOManagement.API\\WeatherForecast.cs",
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Application\\MappingProfiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "IOManagement.Application\\MappingProfiles\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Application\\MappingProfiles\\ProductProfile.cs",
+              "RelativeToolTip": "IOManagement.Application\\MappingProfiles\\ProductProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T09:17:01.186Z",
+              "WhenOpened": "2025-10-15T14:33:10.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetProductByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Application\\Features\\Products\\Queries\\GetProductById\\GetProductByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "IOManagement.Application\\Features\\Products\\Queries\\GetProductById\\GetProductByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Application\\Features\\Products\\Queries\\GetProductById\\GetProductByIdQueryHandler.cs",
+              "RelativeToolTip": "IOManagement.Application\\Features\\Products\\Queries\\GetProductById\\GetProductByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:32:17.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IOManagement.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj",
-              "RelativeToolTip": "IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-14T09:15:56.137Z",
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\Persistence\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "IOManagement.Infrastructure\\Persistence\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\Persistence\\Repositories\\Repository.cs",
+              "RelativeToolTip": "IOManagement.Infrastructure\\Persistence\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:31:58.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "IOManagement.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "IOManagement.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:31:04.867Z",
               "EditorCaption": ""
             }
           ]
