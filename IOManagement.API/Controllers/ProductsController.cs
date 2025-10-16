@@ -1,4 +1,5 @@
-﻿using IOManagement.Application.Features.Products.Queries.GetProductById;
+﻿using IOManagement.Application.Features.Products.Commands.CreateProduct;
+using IOManagement.Application.Features.Products.Queries.GetProductById;
 using Microsoft.AspNetCore.Mvc;
 
 namespace IOManagement.API.Controllers;
@@ -16,5 +17,14 @@ public class ProductsController : ApiControllerBase
         var result = await Mediator.Send(query); // Sorguyu handler a gönder
 
        return result is not null ? Ok(result) : NotFound();
+    }
+
+    [HttpPost]
+    [ProducesResponseType(StatusCodes.Status201Created)]
+    [ProducesResponseType(StatusCodes.Status400BadRequest)]
+    public async Task<IActionResult> CreateProduct([FromBody] CreateProductCommand command)
+    {
+        var result = await Mediator.Send(command);
+        return CreatedAtAction(nameof(GetProductById), new { id = result.Id }, result);
     }
 }

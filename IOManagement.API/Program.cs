@@ -1,15 +1,24 @@
+using FluentValidation;
+using IOManagement.API.Middleware;
 using IOManagement.API.Services;
+using IOManagement.Application.Behaviors;
 using IOManagement.Application.Contracts.Identity;
 using IOManagement.Infrastructure;
-using IOManagement.API.Middleware;
+using MediatR;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddInfrastructureServices(builder.Configuration);
+
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(
     AppDomain.CurrentDomain.Load("IOManagement.Application")));
+
+builder.Services.AddValidatorsFromAssembly(AppDomain.CurrentDomain.Load("IOManagement.Application"));
+builder.Services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehavior<,>));
+
 
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddScoped<ITenantProvider, TenantProvider>();

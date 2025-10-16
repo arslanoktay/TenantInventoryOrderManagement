@@ -1,4 +1,5 @@
-﻿using System.Text.Json;
+﻿using FluentValidation;
+using System.Text.Json;
 
 namespace IOManagement.API.Middleware;
 
@@ -18,6 +19,13 @@ public class ExceptionHandlingMiddleware
         try
         {
             await _next(context);
+        }
+        catch (ValidationException ex)
+        {
+            context.Response.ContentType = "application/json";
+            context.Response.StatusCode = StatusCodes.Status400BadRequest;
+            var errors = ex.Errors.Select(e => new { e.PropertyName, e.ErrorMessage });
+            await context.Response.WriteAsync(JsonSerializer.Serialize(errors));
         }
         catch (Exception ex)
         {

@@ -17,6 +17,7 @@ public static class InfrastructureServiceRegistration
         // neden burası type diğeri direk class verildi?
         services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
         services.AddScoped<IProductRepository, ProductReposiotry>();
+        services.AddScoped<IUnitOfWork, UnitOfWork>();
 
         return services;
     }

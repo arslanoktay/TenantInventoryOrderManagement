@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using IOManagement.Application.Features.Products.Commands.CreateProduct;
+using IOManagement.Domain.Entities;
 
 namespace IOManagement.Application.MappingProfiles
 {
@@ -8,6 +10,7 @@ namespace IOManagement.Application.MappingProfiles
         {
             // Domain Entity -> DTO
             CreateMap<Domain.Entities.Product, DTOs.Product.ProductDto>().ReverseMap();
+            CreateMap<CreateProductCommand, Product>();
         }
     }
 }

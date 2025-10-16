@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WholJzwQDE8=",
+  "dgSpecHash": "ZFKPvRJb300=",
   "success": true,
-  "projectFilePath": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\oarslan\\Desktop\\Durma\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oarslan\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
     "C:\\Users\\oarslan\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -91,9 +91,9 @@
       "code": "NU1608",
       "level": "Warning",
       "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 15.0.1 was resolved.",
-      "projectPath": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\oarslan\\Desktop\\Durma\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj",
+      "filePath": "C:\\Users\\oarslan\\Desktop\\Durma\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net8.0"

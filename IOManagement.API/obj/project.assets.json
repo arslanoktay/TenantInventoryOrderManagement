@@ -5118,11 +5118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.API\\IOManagement.API.csproj",
+      "projectUniqueName": "C:\\Users\\oarslan\\Desktop\\Durma\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.API\\IOManagement.API.csproj",
       "projectName": "IOManagement.API",
-      "projectPath": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.API\\IOManagement.API.csproj",
+      "projectPath": "C:\\Users\\oarslan\\Desktop\\Durma\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.API\\IOManagement.API.csproj",
       "packagesPath": "C:\\Users\\oarslan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.API\\obj\\",
+      "outputPath": "C:\\Users\\oarslan\\Desktop\\Durma\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -5149,11 +5149,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Application\\IOManagement.Application.csproj": {
-              "projectPath": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Application\\IOManagement.Application.csproj"
+            "C:\\Users\\oarslan\\Desktop\\Durma\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Application\\IOManagement.Application.csproj": {
+              "projectPath": "C:\\Users\\oarslan\\Desktop\\Durma\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Application\\IOManagement.Application.csproj"
             },
-            "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj"
+            "C:\\Users\\oarslan\\Desktop\\Durma\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\oarslan\\Desktop\\Durma\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Infrastructure\\IOManagement.Infrastructure.csproj"
             }
           }
         }

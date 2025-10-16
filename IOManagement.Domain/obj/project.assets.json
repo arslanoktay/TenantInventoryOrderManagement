@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Domain\\IOManagement.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\oarslan\\Desktop\\Durma\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Domain\\IOManagement.Domain.csproj",
       "projectName": "IOManagement.Domain",
-      "projectPath": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Domain\\IOManagement.Domain.csproj",
+      "projectPath": "C:\\Users\\oarslan\\Desktop\\Durma\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Domain\\IOManagement.Domain.csproj",
       "packagesPath": "C:\\Users\\oarslan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oarslan\\Desktop\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Domain\\obj\\",
+      "outputPath": "C:\\Users\\oarslan\\Desktop\\Durma\\Dev\\dotnet\\TenantInventoryOrderManagement\\IOManagement.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
